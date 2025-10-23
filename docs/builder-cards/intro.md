@@ -20,8 +20,8 @@ AWS Builder Cards 是一套教育性卡牌游戏，旨在帮助开发者和云�
 
 ## 下载资源
 
-- [中文手册 PDF](./zh/aws-builder-cards-zh.pdf)
-- [English Manual PDF](./en/aws-builder-cards-en.pdf)
+- [中文手册 PDF](/pdfs/builder-cards/aws-builder-cards-zh.pdf)
+- [English Manual PDF](/pdfs/builder-cards/aws-builder-cards-en.pdf)
 
 ---
 
