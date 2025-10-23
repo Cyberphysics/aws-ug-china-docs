@@ -1,0 +1,26 @@
+{
+  "title": {
+    "message": "AWS UG China",
+    "description": "The title in the navbar"
+  },
+  "logo.alt": {
+    "message": "AWS UG China Logo",
+    "description": "The alt text of navbar logo"
+  },
+  "item.label.Builder Cards": {
+    "message": "Builder Cards",
+    "description": "Navbar item with label Builder Cards"
+  },
+  "item.label.Community Handbook": {
+    "message": "Community Handbook",
+    "description": "Navbar item with label Community Handbook"
+  },
+  "item.label.Blog": {
+    "message": "Blog",
+    "description": "Navbar item with label Blog"
+  },
+  "item.label.GitHub": {
+    "message": "GitHub",
+    "description": "Navbar item with label GitHub"
+  }
+}

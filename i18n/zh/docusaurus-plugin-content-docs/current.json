@@ -1,0 +1,26 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.builderCardsSidebar.category.AWS Builder Cards": {
+    "message": "AWS Builder Cards",
+    "description": "The label for category 'AWS Builder Cards' in sidebar 'builderCardsSidebar'"
+  },
+  "sidebar.builderCardsSidebar.category.中文手册": {
+    "message": "中文手册",
+    "description": "The label for category '中文手册' in sidebar 'builderCardsSidebar'"
+  },
+  "sidebar.builderCardsSidebar.category.English Manual": {
+    "message": "English Manual",
+    "description": "The label for category 'English Manual' in sidebar 'builderCardsSidebar'"
+  },
+  "sidebar.builderCardsSidebar.category.游戏布局 PDF": {
+    "message": "游戏布局 PDF",
+    "description": "The label for category '游戏布局 PDF' in sidebar 'builderCardsSidebar'"
+  },
+  "sidebar.communityHandbookSidebar.category.社区手册": {
+    "message": "社区手册",
+    "description": "The label for category '社区手册' in sidebar 'communityHandbookSidebar'"
+  }
+}
