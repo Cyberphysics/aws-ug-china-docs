@@ -1,0 +1,28 @@
+<svg width="120" height="80" viewBox="0 0 120 80" xmlns="http://www.w3.org/2000/svg">
+  <!-- AWS User Group Logo -->
+  <defs>
+    <linearGradient id="ugGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#FF9900;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#FF6600;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background circle -->
+  <circle cx="60" cy="40" r="35" fill="#232F3E" opacity="0.1"/>
+  
+  <!-- AWS text -->
+  <text x="35" y="25" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#232F3E">AWS</text>
+  
+  <!-- User Group icon - people -->
+  <circle cx="45" cy="40" r="6" fill="url(#ugGradient)"/>
+  <circle cx="60" cy="40" r="6" fill="url(#ugGradient)"/>
+  <circle cx="75" cy="40" r="6" fill="url(#ugGradient)"/>
+  
+  <!-- Bodies -->
+  <ellipse cx="45" cy="52" rx="8" ry="6" fill="url(#ugGradient)" opacity="0.8"/>
+  <ellipse cx="60" cy="52" rx="8" ry="6" fill="url(#ugGradient)" opacity="0.8"/>
+  <ellipse cx="75" cy="52" rx="8" ry="6" fill="url(#ugGradient)" opacity="0.8"/>
+  
+  <!-- User Group text -->
+  <text x="25" y="70" font-family="Arial, sans-serif" font-size="10" fill="#666">User Group China</text>
+</svg>

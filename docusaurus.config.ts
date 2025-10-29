@@ -97,7 +97,7 @@ const config: Config = {
 
   themeConfig: {
     // Replace with your project's social card
-    image: 'img/aws-ug-china-social-card.jpg',
+    image: 'img/aws-ug-china-social-card.svg',
     colorMode: {
       respectPrefersColorScheme: true,
     },

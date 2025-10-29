@@ -1,0 +1,43 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" xmlns="http://www.w3.org/2000/svg">
+  <!-- AWS UG China Social Card -->
+  <defs>
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#232F3E;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#1A252F;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="accentGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#FF9900;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#FF6600;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="1200" height="630" fill="url(#bgGradient)"/>
+  
+  <!-- Decorative elements -->
+  <circle cx="1000" cy="150" r="100" fill="url(#accentGradient)" opacity="0.1"/>
+  <circle cx="200" cy="500" r="80" fill="url(#accentGradient)" opacity="0.1"/>
+  
+  <!-- Main content -->
+  <!-- AWS UG China title -->
+  <text x="100" y="200" font-family="Arial, sans-serif" font-size="72" font-weight="bold" fill="white">AWS UG China</text>
+  <text x="100" y="260" font-family="Arial, sans-serif" font-size="36" fill="#FF9900">社区文档站点</text>
+  
+  <!-- Subtitle -->
+  <text x="100" y="320" font-family="Arial, sans-serif" font-size="28" fill="#CCCCCC">AWS Builder Cards · 社区手册 · 教学工具</text>
+  
+  <!-- AWS Builder Cards highlight -->
+  <rect x="100" y="380" width="400" height="120" rx="10" fill="url(#accentGradient)" opacity="0.2"/>
+  <text x="120" y="420" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#FF9900">AWS Builder Cards</text>
+  <text x="120" y="450" font-family="Arial, sans-serif" font-size="18" fill="white">回合制卡牌构建游戏</text>
+  <text x="120" y="475" font-family="Arial, sans-serif" font-size="18" fill="white">学习 AWS 服务和架构设计</text>
+  
+  <!-- Logo area -->
+  <circle cx="900" cy="400" r="80" fill="url(#accentGradient)" opacity="0.3"/>
+  <text x="900" y="380" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="white" text-anchor="middle">AWS</text>
+  <text x="900" y="410" font-family="Arial, sans-serif" font-size="16" fill="white" text-anchor="middle">User Group</text>
+  <text x="900" y="430" font-family="Arial, sans-serif" font-size="16" fill="white" text-anchor="middle">China</text>
+  
+  <!-- URL -->
+  <text x="100" y="580" font-family="Arial, sans-serif" font-size="20" fill="#999999">cyberphysics.github.io/aws-ug-china-docs</text>
+</svg>

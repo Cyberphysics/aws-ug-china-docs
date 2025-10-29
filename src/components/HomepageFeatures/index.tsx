@@ -12,17 +12,17 @@ type FeatureItem = {
 const FeatureList: FeatureItem[] = [
   {
     title: 'AWS Builder Cards',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    Svg: require('@site/static/img/builder-cards-icon.svg').default,
     description: (
       <>
-        完整的 AWS Builder Cards 中英文手册，包含官方文档链接、游戏规则、卡牌说明和最佳实践指南。
-        通过游戏化的方式学习 AWS 服务和架构设计。
+        完整的 AWS Builder Cards 中英文手册，包含官方文档链接、游戏规则和最佳实践指南。
+        通过回合制卡牌构建游戏学习 AWS 服务和架构设计。
       </>
     ),
   },
   {
     title: '社区资源',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    Svg: require('@site/static/img/community-icon.svg').default,
     description: (
       <>
         AWS UG China 社区成员手册、活动指南和贡献指南。
@@ -32,7 +32,7 @@ const FeatureList: FeatureItem[] = [
   },
   {
     title: '教学工具',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    Svg: require('@site/static/img/teaching-tools-icon.svg').default,
     description: (
       <>
         提供规则讲解 PPT、游戏布局 PDF 和快速参考卡等教学工具。

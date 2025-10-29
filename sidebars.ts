@@ -35,7 +35,7 @@ const sidebars: SidebarsConfig = {
           items: [
             'builder-cards/zh/getting-started',
             'builder-cards/zh/rules',
-            'builder-cards/zh/cards-list',
+            // 'builder-cards/zh/cards-list', // 暂时隐藏，待完善卡牌分类后再开放
           ],
         },
         {
@@ -44,7 +44,7 @@ const sidebars: SidebarsConfig = {
           items: [
             'builder-cards/en/getting-started',
             'builder-cards/en/rules',
-            'builder-cards/en/cards-list',
+            // 'builder-cards/en/cards-list', // 暂时隐藏，待完善卡牌分类后再开放
           ],
         },
         {

@@ -1,0 +1,32 @@
+<svg width="100" height="100" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+  <!-- Community Icon -->
+  <defs>
+    <linearGradient id="communityGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#52C41A;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#389E0D;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background circle -->
+  <circle cx="50" cy="50" r="45" fill="url(#communityGradient)" opacity="0.1"/>
+  
+  <!-- People in community -->
+  <!-- Person 1 -->
+  <circle cx="35" cy="35" r="8" fill="url(#communityGradient)"/>
+  <ellipse cx="35" cy="55" rx="12" ry="10" fill="url(#communityGradient)" opacity="0.8"/>
+  
+  <!-- Person 2 -->
+  <circle cx="65" cy="35" r="8" fill="url(#communityGradient)"/>
+  <ellipse cx="65" cy="55" rx="12" ry="10" fill="url(#communityGradient)" opacity="0.8"/>
+  
+  <!-- Person 3 -->
+  <circle cx="50" cy="25" r="8" fill="url(#communityGradient)"/>
+  <ellipse cx="50" cy="45" rx="12" ry="10" fill="url(#communityGradient)" opacity="0.8"/>
+  
+  <!-- Connection lines -->
+  <line x1="42" y1="32" x2="58" y2="32" stroke="url(#communityGradient)" stroke-width="2" opacity="0.6"/>
+  <line x1="42" y1="42" x2="58" y2="42" stroke="url(#communityGradient)" stroke-width="2" opacity="0.6"/>
+  
+  <!-- Community text -->
+  <text x="50" y="85" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#389E0D" text-anchor="middle">Community</text>
+</svg>
