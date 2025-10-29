@@ -22,6 +22,15 @@ const sidebars: SidebarsConfig = {
         'builder-cards/intro',
         {
           type: 'category',
+          label: '官方文档 (AWS Official)',
+          items: [
+            'builder-cards/official/rules-base-game',
+            'builder-cards/official/builders-guideline',
+            'builder-cards/official/quick-reference',
+          ],
+        },
+        {
+          type: 'category',
           label: '中文手册',
           items: [
             'builder-cards/zh/getting-started',
@@ -44,6 +53,14 @@ const sidebars: SidebarsConfig = {
           items: [
             'builder-cards/console-layout',
             'builder-cards/desktop-layout',
+          ],
+        },
+        {
+          type: 'category',
+          label: '规则讲解 PPT',
+          items: [
+            'builder-cards/presentation/rules-explanation',
+            'builder-cards/presentation/gameplay-guide',
           ],
         },
       ],

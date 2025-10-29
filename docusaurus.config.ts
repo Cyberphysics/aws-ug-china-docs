@@ -15,16 +15,16 @@ const config: Config = {
   },
 
   // Set the production url of your site here
-  url: 'https://your-username.github.io', // 替换为你的 GitHub 用户名
+  url: 'https://cyberphysics.github.io', // 替换为你的 GitHub 用户名
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/aws-ug-china-docs/', // 替换为你的仓库名
 
   // GitHub pages deployment config.
-  organizationName: 'your-username', // 替换为你的 GitHub 用户名
+  organizationName: 'cyberphysics', // 替换为你的 GitHub 用户名
   projectName: 'aws-ug-china-docs', // 替换为你的仓库名
 
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'warn',
   
   // Markdown configuration
   markdown: {
@@ -68,7 +68,7 @@ const config: Config = {
       {
         docs: {
           sidebarPath: './sidebars.ts',
-          editUrl: 'https://github.com/your-username/aws-ug-china-docs/tree/main/ug-doc-website/',
+          editUrl: 'https://github.com/cyberphysics/aws-ug-china-docs/tree/main/ug-doc-website/',
           showLastUpdateAuthor: true,
           showLastUpdateTime: true,
         },
@@ -78,7 +78,7 @@ const config: Config = {
             type: ['rss', 'atom'],
             xslt: true,
           },
-          editUrl: 'https://github.com/your-username/aws-ug-china-docs/tree/main/ug-doc-website/',
+          editUrl: 'https://github.com/cyberphysics/aws-ug-china-docs/tree/main/ug-doc-website/',
           blogTitle: 'AWS UG China 博客',
           blogDescription: 'AWS User Group China 社区博客',
           postsPerPage: 'ALL',
@@ -126,7 +126,7 @@ const config: Config = {
           position: 'right',
         },
         {
-          href: 'https://github.com/your-username/aws-ug-china-docs',
+          href: 'https://github.com/cyberphysics/aws-ug-china-docs',
           label: 'GitHub',
           position: 'right',
         },
@@ -175,7 +175,7 @@ const config: Config = {
             },
             {
               label: 'GitHub',
-              href: 'https://github.com/your-username/aws-ug-china-docs',
+              href: 'https://github.com/cyberphysics/aws-ug-china-docs',
             },
             {
               label: 'AWS 官方文档',
