@@ -4,7 +4,7 @@
 
 ## 官方文档链接
 
-📄 **[Rules for Base Game and Add-ons (Official PDF)](https://d1.awsstatic.com/gametech/buildercards/AWS_Builder_Cards_Rules.pdf)**
+📄 **[Rules for Base Game and Add-ons (Official PDF)](https://pages.awscloud.com/rs/112-TZM-766/images/awsi-2025-AWSBuilderCards-Rules.pdf)**
 
 ## 文档概述
 

@@ -4,7 +4,7 @@ AWS 官方提供的 Builder Cards 快速参考卡，A5 尺寸设计，便于打�
 
 ## 官方文档链接
 
-📄 **[Quick Reference Cards A5 (Official PDF)](https://d1.awsstatic.com/gametech/buildercards/AWS_Builder_Cards_Quick_Reference.pdf)**
+📄 **[Quick Reference Cards A5 (Official PDF)](https://pages.awscloud.com/rs/112-TZM-766/images/AWS-BuilderCards-Quickreference-A5.pdf)**
 
 ## 文档概述
 

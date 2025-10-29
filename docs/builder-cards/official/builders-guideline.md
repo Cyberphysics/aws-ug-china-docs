@@ -4,7 +4,7 @@ AWS 官方发布的 Builder Cards 构建指南，提供架构设计的最佳实�
 
 ## 官方文档链接
 
-📄 **[Builder's Guideline (Official PDF)](https://d1.awsstatic.com/gametech/buildercards/AWS_Builder_Cards_Builders_Guideline.pdf)**
+📄 **[Builder's Guideline (Official PDF)](https://pages.awscloud.com/rs/112-TZM-766/images/awsi-2025-AWSBuilderCards-BuildersGuideline.pdf)**
 
 ## 文档概述
 
