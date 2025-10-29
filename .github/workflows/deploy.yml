@@ -30,14 +30,12 @@ jobs:
         with:
           node-version: 20
           cache: npm
-          cache-dependency-path: ug-doc-website/package-lock.json
+          cache-dependency-path: package-lock.json
       
       - name: Install dependencies
-        working-directory: ug-doc-website
         run: npm ci
       
       - name: Build website
-        working-directory: ug-doc-website
         run: npm run build
       
       - name: Setup Pages
@@ -46,8 +44,8 @@ jobs:
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          # Upload entire repository
-          path: ug-doc-website/build
+          # Upload build directory
+          path: build
       
       - name: Deploy to GitHub Pages
         id: deployment

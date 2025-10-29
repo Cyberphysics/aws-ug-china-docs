@@ -68,7 +68,7 @@ const config: Config = {
       {
         docs: {
           sidebarPath: './sidebars.ts',
-          editUrl: 'https://github.com/cyberphysics/aws-ug-china-docs/tree/main/ug-doc-website/',
+          editUrl: 'https://github.com/cyberphysics/aws-ug-china-docs/tree/main/',
           showLastUpdateAuthor: true,
           showLastUpdateTime: true,
         },
@@ -78,7 +78,7 @@ const config: Config = {
             type: ['rss', 'atom'],
             xslt: true,
           },
-          editUrl: 'https://github.com/cyberphysics/aws-ug-china-docs/tree/main/ug-doc-website/',
+          editUrl: 'https://github.com/cyberphysics/aws-ug-china-docs/tree/main/',
           blogTitle: 'AWS UG China 博客',
           blogDescription: 'AWS User Group China 社区博客',
           postsPerPage: 'ALL',
