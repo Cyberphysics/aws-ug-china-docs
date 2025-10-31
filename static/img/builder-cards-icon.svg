@@ -12,7 +12,7 @@
   <rect x="20" y="20" width="50" height="35" rx="5" fill="#F5F5F5" stroke="#DDD" stroke-width="1"/>
   <rect x="25" y="15" width="50" height="35" rx="5" fill="url(#cardGradient)" stroke="#357ABD" stroke-width="2"/>
   
-  <!-- AWS services icons on top card -->
+  <!-- 亚马逊云科技 services icons on top card -->
   <circle cx="40" cy="25" r="3" fill="white"/>
   <rect x="50" y="22" width="6" height="6" fill="white"/>
   <polygon points="60,22 66,25 60,28" fill="white"/>

@@ -1,5 +1,5 @@
 <svg width="120" height="80" viewBox="0 0 120 80" xmlns="http://www.w3.org/2000/svg">
-  <!-- AWS User Group Logo -->
+  <!-- 亚马逊云科技 User Group Logo -->
   <defs>
     <linearGradient id="ugGradient" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" style="stop-color:#FF9900;stop-opacity:1" />
@@ -10,8 +10,8 @@
   <!-- Background circle -->
   <circle cx="60" cy="40" r="35" fill="#232F3E" opacity="0.1"/>
   
-  <!-- AWS text -->
-  <text x="35" y="25" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#232F3E">AWS</text>
+  <!-- 亚马逊云科技 text -->
+  <text x="35" y="25" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#232F3E">亚马逊云科技</text>
   
   <!-- User Group icon - people -->
   <circle cx="45" cy="40" r="6" fill="url(#ugGradient)"/>

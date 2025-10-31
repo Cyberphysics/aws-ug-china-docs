@@ -1,6 +1,6 @@
 # Builder's Guideline
 
-AWS 官方发布的 Builder Cards 构建指南，提供架构设计的最佳实践和策略建议。
+亚马逊云科技官方发布的 Builder Cards 构建指南，提供架构设计的最佳实践和策略建议。
 
 ## 官方文档链接
 
@@ -8,16 +8,16 @@ AWS 官方发布的 Builder Cards 构建指南，提供架构设计的最佳实�
 
 ## 文档概述
 
-Builder's Guideline 是专为 AWS Builder Cards 玩家设计的高级策略指南，包含：
+Builder's Guideline 是专为亚马逊云科技 Builder Cards 玩家设计的高级策略指南，包含：
 
 ### 架构设计原则
-- **Well-Architected Framework**: 基于 AWS 架构完善框架的设计原则
+- **Well-Architected Framework**: 基于亚马逊云科技架构完善框架的设计原则
 - **成本优化**: 如何在游戏中实现成本效益最大化
 - **性能效率**: 优化架构性能的策略和技巧
 - **可靠性**: 构建高可用和容错架构的方法
 
 ### 服务组合策略
-- **核心服务组合**: 最常用的 AWS 服务搭配
+- **核心服务组合**: 最常用的亚马逊云科技服务搭配
 - **专业场景架构**: 针对特定用例的架构模式
 - **扩展策略**: 如何有效使用扩展包服务
 - **连接优化**: 服务间连接的最佳实践
@@ -36,7 +36,7 @@ Builder's Guideline 是专为 AWS Builder Cards 玩家设计的高级策略指�
 - 参与竞技比赛的选手
 
 ### 技术专业人士
-- AWS 架构师和工程师
+- 亚马逊云科技架构师和工程师
 - 云计算从业者
 - 技术培训师和讲师
 
@@ -69,7 +69,7 @@ Builder's Guideline 是专为 AWS Builder Cards 玩家设计的高级策略指�
 
 ### 初学者路径
 1. 先学习基础规则
-2. 理解核心 AWS 服务
+2. 理解核心亚马逊云科技服务
 3. 练习基本架构模式
 4. 逐步应用指南建议
 
@@ -95,4 +95,4 @@ Builder's Guideline 是专为 AWS Builder Cards 玩家设计的高级策略指�
 
 ---
 
-*Builder's Guideline 是提升 AWS Builder Cards 游戏技巧的必读文档，强烈推荐所有玩家学习。*
+*Builder's Guideline 是提升亚马逊云科技 Builder Cards 游戏技巧的必读文档，强烈推荐所有玩家学习。*

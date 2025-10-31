@@ -1,6 +1,6 @@
 # Rules for Base Game and Add-ons
 
-This is the official AWS Builder Cards base game and expansion rules document published by AWS.
+This is the official 亚马逊云科技 Builder Cards base game and expansion rules document published by 亚马逊云科技.
 
 ## Official Document Link
 
@@ -36,7 +36,7 @@ We have translated this document into Chinese version, which you can find at:
 - Expert-level challenges
 
 ### Official Certification
-- Published and maintained by AWS
+- Published and maintained by 亚马逊云科技
 - Regular updates and revisions
 - Community feedback integration
 - Competition standard rules
@@ -51,8 +51,8 @@ We have translated this document into Chinese version, which you can find at:
 
 - [Builder's Guideline](./builders-guideline.md) - Building Guide
 - [Quick Reference Cards](./quick-reference.md) - Quick Reference Cards
-- [AWS GameTech Official Site](https://aws.amazon.com/gametech/buildercards/)
+- [亚马逊云科技 GameTech Official Site](https://aws.amazon.com/gametech/buildercards/)
 
 ---
 
-*This page provides links and descriptions to official documents. Please visit the AWS official link for the latest version of actual document content.*
+*This page provides links and descriptions to official documents. Please visit the 亚马逊云科技 official link for the latest version of actual document content.*

@@ -5,8 +5,8 @@ import type * as Preset from '@docusaurus/preset-classic';
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
 
 const config: Config = {
-  title: 'AWS UG China 社区文档',
-  tagline: 'AWS User Group China Community Documentation',
+  title: '亚马逊云科技 UG China 社区文档',
+  tagline: '亚马逊云科技 User Group China Community Documentation',
   favicon: 'img/favicon.ico',
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
@@ -79,8 +79,8 @@ const config: Config = {
             xslt: true,
           },
           editUrl: 'https://github.com/cyberphysics/aws-ug-china-docs/tree/main/',
-          blogTitle: 'AWS UG China 博客',
-          blogDescription: 'AWS User Group China 社区博客',
+          blogTitle: '亚马逊云科技 UG China 博客',
+          blogDescription: '亚马逊云科技 User Group China 社区博客',
           postsPerPage: 'ALL',
           blogSidebarTitle: '最新文章',
           blogSidebarCount: 'ALL',
@@ -102,9 +102,9 @@ const config: Config = {
       respectPrefersColorScheme: true,
     },
     navbar: {
-      title: 'AWS UG China',
+      title: '亚马逊云科技 UG China',
       logo: {
-        alt: 'AWS UG China Logo',
+        alt: '亚马逊云科技 UG China Logo',
         src: 'img/aws-ug-logo.svg',
       },
       items: [
@@ -139,7 +139,7 @@ const config: Config = {
           title: '文档',
           items: [
             {
-              label: 'AWS Builder Cards',
+              label: '亚马逊云科技 Builder Cards',
               to: '/docs/builder-cards/intro',
             },
             {
@@ -153,7 +153,7 @@ const config: Config = {
           title: '社区',
           items: [
             {
-              label: 'AWS UG China 官网',
+              label: '亚马逊云科技 UG China 官网',
               href: 'https://www.awsug.cn/',
             },
             {
@@ -178,13 +178,13 @@ const config: Config = {
               href: 'https://github.com/cyberphysics/aws-ug-china-docs',
             },
             {
-              label: 'AWS 官方文档',
+              label: '亚马逊云科技官方文档',
               href: 'https://docs.aws.amazon.com/',
             },
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} AWS User Group China. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} 亚马逊云科技 User Group China. Built with Docusaurus.`,
     },
     prism: {
       theme: prismThemes.github,

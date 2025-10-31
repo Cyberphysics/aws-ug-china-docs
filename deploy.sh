@@ -2,7 +2,7 @@
 
 # 部署脚本 - 用于推送更改到 GitHub 并触发自动部署
 
-echo "🚀 开始部署 AWS UG China 文档站点..."
+echo "🚀 开始部署亚马逊云科技 UG China 文档站点..."
 
 # 检查是否有未提交的更改
 if [[ -n $(git status -s) ]]; then

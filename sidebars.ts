@@ -13,16 +13,16 @@ import type {SidebarsConfig} from '@docusaurus/plugin-content-docs';
  Create as many sidebars as you want.
  */
 const sidebars: SidebarsConfig = {
-  // AWS Builder Cards 侧边栏
+  // 亚马逊云科技 Builder Cards 侧边栏
   builderCardsSidebar: [
     {
       type: 'category',
-      label: 'AWS Builder Cards',
+      label: '亚马逊云科技 Builder Cards',
       items: [
         'builder-cards/intro',
         {
           type: 'category',
-          label: '官方文档 (AWS Official)',
+          label: '官方文档 (亚马逊云科技 Official)',
           items: [
             'builder-cards/official/rules-base-game',
             'builder-cards/official/builders-guideline',

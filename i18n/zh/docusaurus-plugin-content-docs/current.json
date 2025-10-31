@@ -4,8 +4,8 @@
     "description": "The label for version current"
   },
   "sidebar.builderCardsSidebar.category.AWS Builder Cards": {
-    "message": "AWS Builder Cards",
-    "description": "The label for category 'AWS Builder Cards' in sidebar 'builderCardsSidebar'"
+    "message": "亚马逊云科技 Builder Cards",
+    "description": "The label for category '亚马逊云科技 Builder Cards' in sidebar 'builderCardsSidebar'"
   },
   "sidebar.builderCardsSidebar.category.中文手册": {
     "message": "中文手册",

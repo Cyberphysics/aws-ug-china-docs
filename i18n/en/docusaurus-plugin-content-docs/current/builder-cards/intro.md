@@ -1,15 +1,15 @@
-# AWS Builder Cards Introduction
+# 亚马逊云科技 Builder Cards Introduction
 
-Welcome to the AWS Builder Cards documentation! Here you'll find complete manuals in both Chinese and English to help you understand and use AWS Builder Cards.
+Welcome to the 亚马逊云科技 Builder Cards documentation! Here you'll find complete manuals in both Chinese and English to help you understand and use 亚马逊云科技 Builder Cards.
 
-## What are AWS Builder Cards?
+## What are 亚马逊云科技 Builder Cards?
 
-AWS Builder Cards is an educational card game designed to help developers and cloud computing enthusiasts learn AWS services and best practices.
+亚马逊云科技 Builder Cards is an educational card game designed to help developers and cloud computing enthusiasts learn 亚马逊云科技 services and best practices.
 
 ## Documentation Structure
 
-### Official Documents (AWS Official)
-- **[Rules for Base Game and Add-ons](./official/rules-base-game.md)**: Official AWS base game rules
+### Official Documents (亚马逊云科技 Official)
+- **[Rules for Base Game and Add-ons](./official/rules-base-game.md)**: Official 亚马逊云科技 base game rules
 - **[Builder's Guideline](./official/builders-guideline.md)**: Official building guide and best practices
 - **[Quick Reference Cards](./official/quick-reference.md)**: A5 size quick reference cards
 
@@ -51,11 +51,11 @@ AWS Builder Cards is an educational card game designed to help developers and cl
 - **[Gameplay Guide PPT](/pdfs/builder-cards/gameplay-guide.pptx)** - Advanced strategy explanation
 
 ### Official Resource Links
-- **[AWS GameTech Builder Cards Official Site](https://aws.amazon.com/gametech/buildercards/)**
+- **[亚马逊云科技 GameTech Builder Cards Official Site](https://aws.amazon.com/gametech/buildercards/)**
 - **[Official Rules PDF](https://d1.awsstatic.com/gametech/buildercards/AWS_Builder_Cards_Rules.pdf)**
 - **[Builder's Guideline PDF](https://d1.awsstatic.com/gametech/buildercards/AWS_Builder_Cards_Builders_Guideline.pdf)**
 - **[Quick Reference Cards PDF](https://d1.awsstatic.com/gametech/buildercards/AWS_Builder_Cards_Quick_Reference.pdf)**
 
 ---
 
-*AWS Builder Cards is an official educational tool from AWS, copyright Amazon Web Services.*
+*亚马逊云科技 Builder Cards is an official educational tool from 亚马逊云科技, copyright Amazon Web Services.*

@@ -1,15 +1,15 @@
-# AWS Builder Cards 简介
+# 亚马逊云科技 Builder Cards 简介
 
-欢迎来到 AWS Builder Cards 文档！这里包含了完整的中英文手册，帮助你了解和使用 AWS Builder Cards。
+欢迎来到亚马逊云科技 Builder Cards 文档！这里包含了完整的中英文手册，帮助你了解和使用亚马逊云科技 Builder Cards。
 
-## 什么是 AWS Builder Cards？
+## 什么是亚马逊云科技 Builder Cards？
 
-AWS Builder Cards 是一套教育性卡牌游戏，旨在帮助开发者和云计算爱好者学习 AWS 服务和最佳实践。
+亚马逊云科技 Builder Cards 是一套教育性卡牌游戏，旨在帮助开发者和云计算爱好者学习亚马逊云科技服务和最佳实践。
 
 ## 文档结构
 
-### 官方文档 (AWS Official)
-- **[Rules for Base Game and Add-ons](./official/rules-base-game.md)**: AWS 官方基础游戏规则
+### 官方文档 (亚马逊云科技 Official)
+- **[Rules for Base Game and Add-ons](./official/rules-base-game.md)**: 亚马逊云科技官方基础游戏规则
 - **[Builder's Guideline](./official/builders-guideline.md)**: 官方构建指南和最佳实践
 - **[Quick Reference Cards](./official/quick-reference.md)**: A5 尺寸快速参考卡
 
@@ -51,11 +51,11 @@ AWS Builder Cards 是一套教育性卡牌游戏，旨在帮助开发者和云�
 - **[游戏玩法指南 PPT](/pdfs/builder-cards/gameplay-guide.pptx)** - 高级策略讲解
 
 ### 官方资源链接
-- **[AWS GameTech Builder Cards 官网](https://aws.amazon.com/cn/gametech/buildercards/)**
+- **[亚马逊云科技 GameTech Builder Cards 官网](https://aws.amazon.com/cn/gametech/buildercards/)**
 - **[官方规则 PDF](https://pages.awscloud.com/rs/112-TZM-766/images/awsi-2025-AWSBuilderCards-Rules.pdf)**
 - **[构建指南 PDF](https://pages.awscloud.com/rs/112-TZM-766/images/awsi-2025-AWSBuilderCards-BuildersGuideline.pdf)**
 - **[快速参考卡 PDF](https://pages.awscloud.com/rs/112-TZM-766/images/AWS-BuilderCards-Quickreference-A5.pdf)**
 
 ---
 
-*AWS Builder Cards 是 AWS 官方推出的教育工具，版权归 Amazon Web Services 所有。*
+*亚马逊云科技 Builder Cards 是亚马逊云科技官方推出的教育工具，版权归 Amazon Web Services 所有。*

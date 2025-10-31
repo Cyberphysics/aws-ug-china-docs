@@ -1,12 +1,12 @@
-# AWS UG China Community Handbook
+# 亚马逊云科技 UG China Community Handbook
 
-Welcome to the AWS User Group China community! This is one of the most active AWS technical communities in China.
+Welcome to the 亚马逊云科技 User Group China community! This is one of the most active 亚马逊云科技 technical communities in China.
 
 ## About Us
 
-AWS User Group China is a technical community spontaneously organized by AWS users, dedicated to:
+亚马逊云科技 User Group China is a technical community spontaneously organized by 亚马逊云科技 users, dedicated to:
 
-- 🚀 Promoting AWS cloud computing technology and best practices
+- 🚀 Promoting 亚马逊云科技 cloud computing technology and best practices
 - 🤝 Facilitating technical exchange and knowledge sharing
 - 📚 Providing learning resources and growth opportunities
 - 🌟 Building an open and inclusive technical community
@@ -14,7 +14,7 @@ AWS User Group China is a technical community spontaneously organized by AWS use
 ## Community Values
 
 ### Open and Inclusive
-We welcome all friends interested in AWS and cloud computing, regardless of your technical level.
+We welcome all friends interested in 亚马逊云科技 and cloud computing, regardless of your technical level.
 
 ### Knowledge Sharing
 We encourage community members to share experiences, best practices, and learning insights.

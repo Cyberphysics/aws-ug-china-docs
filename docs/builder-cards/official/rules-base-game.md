@@ -1,6 +1,6 @@
 # Rules for Base Game and Add-ons
 
-这是 AWS 官方发布的 Builder Cards 基础游戏和扩展包规则文档。
+这是亚马逊云科技官方发布的 Builder Cards 基础游戏和扩展包规则文档。
 
 ## 官方文档链接
 
@@ -36,7 +36,7 @@
 - 专家级挑战
 
 ### 官方认证
-- AWS 官方发布和维护
+- 亚马逊云科技官方发布和维护
 - 定期更新和修订
 - 社区反馈整合
 - 竞赛标准规则
@@ -51,8 +51,8 @@
 
 - [Builder's Guideline](./builders-guideline.md) - 构建指南
 - [Quick Reference Cards](./quick-reference.md) - 快速参考卡
-- [AWS GameTech 官网](https://aws.amazon.com/cn/gametech/buildercards/)
+- [亚马逊云科技 GameTech 官网](https://aws.amazon.com/cn/gametech/buildercards/)
 
 ---
 
-*此页面提供官方文档的链接和说明，实际文档内容请访问 AWS 官方链接获取最新版本。*
+*此页面提供官方文档的链接和说明，实际文档内容请访问亚马逊云科技官方链接获取最新版本。*

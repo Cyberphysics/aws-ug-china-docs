@@ -11,12 +11,12 @@ type FeatureItem = {
 
 const FeatureList: FeatureItem[] = [
   {
-    title: 'AWS Builder Cards',
+    title: '亚马逊云科技 Builder Cards',
     Svg: require('@site/static/img/builder-cards-icon.svg').default,
     description: (
       <>
-        完整的 AWS Builder Cards 中英文手册，包含官方文档链接、游戏规则和最佳实践指南。
-        通过回合制卡牌构建游戏学习 AWS 服务和架构设计。
+        完整的亚马逊云科技 Builder Cards 中英文手册，包含官方文档链接、游戏规则和最佳实践指南。
+        通过回合制卡牌构建游戏学习亚马逊云科技服务和架构设计。
       </>
     ),
   },
@@ -25,8 +25,8 @@ const FeatureList: FeatureItem[] = [
     Svg: require('@site/static/img/community-icon.svg').default,
     description: (
       <>
-        AWS UG China 社区成员手册、活动指南和贡献指南。
-        加入我们的社区，与其他 AWS 爱好者一起学习和成长。
+        亚马逊云科技 UG China 社区成员手册、活动指南和贡献指南。
+        加入我们的社区，与其他亚马逊云科技爱好者一起学习和成长。
       </>
     ),
   },

@@ -6,7 +6,7 @@
 
 ```
 pdfs/
-├── builder-cards/          # AWS Builder Cards 相关 PDF
+├── builder-cards/          # 亚马逊云科技 Builder Cards 相关 PDF
 │   ├── aws-builder-cards-zh.pdf
 │   ├── aws-builder-cards-en.pdf
 │   └── quick-reference.pdf

@@ -3,8 +3,8 @@
 ## Basic Concepts
 
 ### Architecture Building
-The core of AWS Builder Cards is building cloud architectures. Players need to:
-- Choose appropriate AWS services
+The core of 亚马逊云科技 Builder Cards is building cloud architectures. Players need to:
+- Choose appropriate 亚马逊云科技 services
 - Establish connections between services
 - Optimize architecture performance and cost
 - Ensure security and reliability

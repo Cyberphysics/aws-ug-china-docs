@@ -1,10 +1,10 @@
 # 游戏玩法指南 PPT
 
-深入的 AWS Builder Cards 游戏玩法指南，包含高级策略、实战技巧和最佳实践。
+深入的亚马逊云科技 Builder Cards 游戏玩法指南，包含高级策略、实战技巧和最佳实践。
 
 ## PPT 下载
 
-📊 **[AWS Builder Cards 游戏玩法指南 PPT](/pdfs/builder-cards/gameplay-guide.pptx)**
+📊 **[亚马逊云科技 Builder Cards 游戏玩法指南 PPT](/pdfs/builder-cards/gameplay-guide.pptx)**
 
 ## 演示内容
 
@@ -112,7 +112,7 @@
 - 追求完美架构设计
 
 ### 技术专家
-- AWS 认证架构师
+- 亚马逊云科技认证架构师
 - 云计算从业者
 - 系统设计专家
 - 技术团队负责人
@@ -194,7 +194,7 @@
 
 - **[规则讲解 PPT](./rules-explanation.md)**: 基础规则讲解
 - **[中文规则详解](../zh/rules.md)**: 完整规则说明
-- **[官方构建指南](../official/builders-guideline.md)**: AWS 官方策略指南
+- **[官方构建指南](../official/builders-guideline.md)**: 亚马逊云科技官方策略指南
 - **[快速参考卡](../official/quick-reference.md)**: 便携式规则速查
 
 ## 反馈收集
@@ -215,4 +215,4 @@
 
 ---
 
-*这份游戏玩法指南凝聚了众多高手的智慧和经验，希望能帮助你在 AWS Builder Cards 的世界中更进一步！*
+*这份游戏玩法指南凝聚了众多高手的智慧和经验，希望能帮助你在亚马逊云科技 Builder Cards 的世界中更进一步！*

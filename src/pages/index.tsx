@@ -21,7 +21,7 @@ function HomepageHeader() {
           <Link
             className="button button--secondary button--lg"
             to="/docs/builder-cards/intro">
-            开始使用 AWS Builder Cards 📚
+            开始使用亚马逊云科技 Builder Cards 📚
           </Link>
           <Link
             className="button button--outline button--secondary button--lg"

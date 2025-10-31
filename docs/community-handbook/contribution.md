@@ -121,7 +121,7 @@ npm start
 git commit -m "type(scope): description"
 
 # 示例
-git commit -m "docs: add AWS Lambda tutorial"
+git commit -m "docs: add 亚马逊云科技 Lambda tutorial"
 git commit -m "fix: resolve mobile navigation issue"
 git commit -m "feat: add search functionality"
 ```
@@ -136,7 +136,7 @@ git commit -m "feat: add search functionality"
 
 ### 积分兑换
 - 技术书籍
-- AWS 积分
+- 亚马逊云科技积分
 - 会议门票
 - 社区周边
 

@@ -1,6 +1,6 @@
-# AWS UG China 社区文档站点
+# 亚马逊云科技 UG China 社区文档站点
 
-这是 AWS User Group China 社区的官方文档站点，基于 Docusaurus 构建，托管在 GitHub Pages 上。
+这是亚马逊云科技 User Group China 社区的官方文档站点，基于 Docusaurus 构建，托管在 GitHub Pages 上。
 
 ## 🚀 功能特性
 
@@ -14,7 +14,7 @@
 
 ## 📚 文档内容
 
-### AWS Builder Cards
+### 亚马逊云科技 Builder Cards
 - 完整的中英文游戏手册
 - 游戏规则详解
 - 卡牌列表和说明
@@ -115,7 +115,7 @@ npm run deploy
 ```
 ug-doc-website/
 ├── docs/                          # 文档源文件
-│   ├── builder-cards/             # AWS Builder Cards 文档
+│   ├── builder-cards/             # 亚马逊云科技 Builder Cards 文档
 │   ├── community-handbook/        # 社区手册
 │   └── games/                     # 游戏相关文档
 ├── blog/                          # 博客文章
@@ -146,8 +146,8 @@ ug-doc-website/
 
 - [Docusaurus 官方文档](https://docusaurus.io/docs)
 - [GitHub Issues](https://github.com/your-username/aws-ug-china-docs/issues)
-- [AWS UG China 社区](https://www.awsug.cn/)
+- [亚马逊云科技 UG China 社区](https://www.awsug.cn/)
 
 ---
 
-由 ❤️ 和 ☕ 驱动，为 AWS UG China 社区构建
+由 ❤️ 和 ☕ 驱动，为亚马逊云科技 UG China 社区构建
