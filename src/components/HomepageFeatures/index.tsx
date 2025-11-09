@@ -5,14 +5,14 @@ import styles from './styles.module.css';
 
 type FeatureItem = {
   title: string;
-  Svg: React.ComponentType<React.ComponentProps<'svg'>>;
+  image: string;
   description: ReactNode;
 };
 
 const FeatureList: FeatureItem[] = [
   {
     title: '亚马逊云科技 Builder Cards',
-    Svg: require('@site/static/img/builder-cards-icon.svg').default,
+    image: require('@site/static/img/ug_buildercards_button_logo.png').default,
     description: (
       <>
         完整的亚马逊云科技 Builder Cards 中英文手册，包含官方文档链接、游戏规则和最佳实践指南。
@@ -22,7 +22,7 @@ const FeatureList: FeatureItem[] = [
   },
   {
     title: '社区资源',
-    Svg: require('@site/static/img/community-icon.svg').default,
+    image: require('@site/static/img/ug_community_button_logo.png').default,
     description: (
       <>
         亚马逊云科技 UG China 社区成员手册、活动指南和贡献指南。
@@ -32,7 +32,7 @@ const FeatureList: FeatureItem[] = [
   },
   {
     title: '教学工具',
-    Svg: require('@site/static/img/teaching-tools-icon.svg').default,
+    image: require('@site/static/img/ug_teaching-tools_button_logo.png').default,
     description: (
       <>
         提供规则讲解 PPT、游戏布局 PDF 和快速参考卡等教学工具。
@@ -42,11 +42,11 @@ const FeatureList: FeatureItem[] = [
   },
 ];
 
-function Feature({title, Svg, description}: FeatureItem) {
+function Feature({title, image, description}: FeatureItem) {
   return (
     <div className={clsx('col col--4')}>
       <div className="text--center">
-        <Svg className={styles.featureSvg} role="img" />
+        <img src={image} className={styles.featureSvg} alt={title} />
       </div>
       <div className="text--center padding-horiz--md">
         <Heading as="h3">{title}</Heading>
