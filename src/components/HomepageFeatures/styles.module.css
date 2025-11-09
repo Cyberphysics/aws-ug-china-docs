@@ -3,6 +3,10 @@
   align-items: center;
   padding: 2rem 0;
   width: 100%;
+  background-image: url('@site/static/img/down-part-banner-background.png');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
 }
 
 .featureSvg {
