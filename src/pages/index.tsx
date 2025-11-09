@@ -23,12 +23,12 @@ function HomepageHeader() {
             to="/docs/builder-cards/intro">
             开始使用亚马逊云科技 Builder Cards 📚
           </Link>
-          <Link
+          {/* <Link
             className="button button--outline button--secondary button--lg"
             to="/docs/community-handbook/intro"
             style={{marginLeft: '1rem'}}>
             社区手册 🤝
-          </Link>
+          </Link> */}
         </div>
       </div>
     </header>

@@ -146,7 +146,7 @@ ug-doc-website/
 
 - [Docusaurus 官方文档](https://docusaurus.io/docs)
 - [GitHub Issues](https://github.com/your-username/aws-ug-china-docs/issues)
-- [亚马逊云科技 UG China 社区](https://www.awsug.cn/)
+- [亚马逊云科技 UG China 社区](https://cnusergroup.github.io/cnusergroup-website/)
 
 ---
 

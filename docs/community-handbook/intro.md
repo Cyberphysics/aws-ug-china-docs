@@ -47,8 +47,8 @@
 
 ## 联系我们
 
-- **官网**: https://www.awsug.cn/
-- **GitHub**: https://github.com/aws-ug-china
+- **官网**: https://cnusergroup.github.io/cnusergroup-website/
+- **GitHub**: https://github.com/cnusergroup/cnusergroup-website
 - **邮箱**: contact@awsug.cn
 - **Meetup**: https://www.meetup.com/aws-user-group-china/
 

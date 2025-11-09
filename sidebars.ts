@@ -20,15 +20,15 @@ const sidebars: SidebarsConfig = {
       label: '亚马逊云科技 Builder Cards',
       items: [
         'builder-cards/intro',
-        {
-          type: 'category',
-          label: '官方文档 (亚马逊云科技 Official)',
-          items: [
-            'builder-cards/official/rules-base-game',
-            'builder-cards/official/builders-guideline',
-            'builder-cards/official/quick-reference',
-          ],
-        },
+        // {
+        //   type: 'category',
+        //   label: '官方文档 (亚马逊云科技 Official)',
+        //   items: [
+        //     'builder-cards/official/rules-base-game',
+        //     'builder-cards/official/builders-guideline',
+        //     'builder-cards/official/quick-reference',
+        //   ],
+        // },
         {
           type: 'category',
           label: '中文手册',
@@ -40,29 +40,20 @@ const sidebars: SidebarsConfig = {
         },
         {
           type: 'category',
-          label: 'English Manual',
-          items: [
-            'builder-cards/en/getting-started',
-            'builder-cards/en/rules',
-            // 'builder-cards/en/cards-list', // 暂时隐藏，待完善卡牌分类后再开放
-          ],
-        },
-        {
-          type: 'category',
           label: '游戏布局 PDF',
           items: [
             'builder-cards/console-layout',
             'builder-cards/desktop-layout',
           ],
         },
-        {
-          type: 'category',
-          label: '规则讲解 PPT',
-          items: [
-            'builder-cards/presentation/rules-explanation',
-            'builder-cards/presentation/gameplay-guide',
-          ],
-        },
+        // {
+        //   type: 'category',
+        //   label: '规则讲解 PPT',
+        //   items: [
+        //     'builder-cards/presentation/rules-explanation',
+        //     'builder-cards/presentation/gameplay-guide',
+        //   ],
+        // },
       ],
     },
   ],
@@ -78,6 +69,7 @@ const sidebars: SidebarsConfig = {
         'community-handbook/events',
         'community-handbook/contribution',
         'community-handbook/code-of-conduct',
+        'community-handbook/social-media',
       ],
     },
   ],

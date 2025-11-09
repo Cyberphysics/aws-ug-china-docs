@@ -99,7 +99,7 @@
 ### 开发环境设置
 ```bash
 # 克隆仓库
-git clone https://github.com/aws-ug-china/docs.git
+git clone https://github.com/cnusergroup/cnusergroup-website/docs.git
 cd docs/ug-doc-website
 
 # 安装依赖

@@ -5,7 +5,7 @@
 ### 加入方式
 
 #### 1. 在线注册
-- 访问 [亚马逊云科技 UG China 官网](https://www.awsug.cn/)
+- 访问 [亚马逊云科技 UG China 官网](https://cnusergroup.github.io/cnusergroup-website/)
 - 填写注册表单
 - 验证邮箱地址
 - 完善个人资料

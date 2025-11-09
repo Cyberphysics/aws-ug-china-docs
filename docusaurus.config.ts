@@ -105,7 +105,7 @@ const config: Config = {
       title: '亚马逊云科技 UG China',
       logo: {
         alt: '亚马逊云科技 UG China Logo',
-        src: 'img/aws-ug-logo.svg',
+        src: 'img/aws-ug-logo.webp',
       },
       items: [
         {
@@ -114,12 +114,12 @@ const config: Config = {
           position: 'left',
           label: 'Builder Cards',
         },
-        {
-          type: 'docSidebar',
-          sidebarId: 'communityHandbookSidebar',
-          position: 'left',
-          label: 'Community Handbook',
-        },
+        // {
+        //   type: 'docSidebar',
+        //   sidebarId: 'communityHandbookSidebar',
+        //   position: 'left',
+        //   label: 'Community Handbook',
+        // },
         {to: '/blog', label: 'Blog', position: 'left'},
         {
           type: 'localeDropdown',
@@ -142,10 +142,10 @@ const config: Config = {
               label: '亚马逊云科技 Builder Cards',
               to: '/docs/builder-cards/intro',
             },
-            {
-              label: '社区手册',
-              to: '/docs/community-handbook/intro',
-            },
+            // {
+            //   label: '社区手册',
+            //   to: '/docs/community-handbook/intro',
+            // },
 
           ],
         },
@@ -154,15 +154,23 @@ const config: Config = {
           items: [
             {
               label: '亚马逊云科技 UG China 官网',
-              href: 'https://www.awsug.cn/',
-            },
-            {
-              label: '微信群',
-              href: '#',
+              href: 'https://cnusergroup.github.io/cnusergroup-website/',
             },
             {
               label: 'Meetup',
               href: 'https://www.meetup.com/aws-user-group-china/',
+            },
+            {
+              label: '小红书',
+              href: 'https://www.xiaohongshu.com/user/profile/5e7f8c0a000000000100a8c9',
+            },
+            {
+              label: '微信公众号',
+              href: 'https://mp.weixin.qq.com/s/awsug-china',
+            },
+            {
+              label: 'Bilibili',
+              href: 'https://space.bilibili.com/aws-ug-china',
             },
           ],
         },

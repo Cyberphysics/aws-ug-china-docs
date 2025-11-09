@@ -47,8 +47,8 @@ We encourage trying new technologies and sharing innovative solutions.
 
 ## Contact Us
 
-- **Website**: https://www.awsug.cn/
-- **GitHub**: https://github.com/aws-ug-china
+- **Website**: https://cnusergroup.github.io/cnusergroup-website/
+- **GitHub**: https://github.com/cnusergroup/cnusergroup-website
 - **Email**: contact@awsug.cn
 - **Meetup**: https://www.meetup.com/aws-user-group-china/
 
