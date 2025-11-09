@@ -11,22 +11,23 @@ AWS User Group China has official accounts on multiple platforms. Follow us to g
 
 ### Xiaohongshu (Little Red Book)
 - **Account**: AWS User Group China
-- **Link**: [Xiaohongshu Profile](https://www.xiaohongshu.com/user/profile/5e7f8c0a000000000100a8c9)
+- **Link**: [Xiaohongshu Profile](https://www.xiaohongshu.com/user/profile/619dc3330000000021024542?xhsshare=WeixinSession&appuid=619dc3330000000021024542&apptime=1642477187)
 - **Content**: Community events, technical sharing, Builder Cards game experience
 
 ### WeChat Official Account
 - **Account Name**: AWS User Group China
+- **Link**: [Scan QR Code](#wechat-qrcode)
 - **Content**: Technical articles, event notifications, community updates
 
 ### Bilibili
 - **Account**: AWS UG China
-- **Link**: [Bilibili Channel](https://space.bilibili.com/aws-ug-china)
+- **Link**: [Bilibili Channel](https://space.bilibili.com/588632949?spm_id_from=333.1007.0.0)
 - **Content**: Technical videos, event recordings, tutorial sharing
 
-### Meetup
-- **Group**: AWS User Group China
-- **Link**: [Meetup Page](https://www.meetup.com/aws-user-group-china/)
-- **Content**: Offline event organization, event registration
+### Weibo
+- **Account**: AWS User Group China
+- **Link**: [Weibo Profile](https://weibo.com/u/7727126469)
+- **Content**: Community updates, tech news, event announcements
 
 ### GitHub
 - **Organization**: cyberphysics
@@ -38,9 +39,9 @@ AWS User Group China has official accounts on multiple platforms. Follow us to g
 Want to join our community? You can:
 
 1. Follow our social media accounts for the latest updates
-2. Register for offline events on Meetup
-3. Contribute to our projects on GitHub
-4. Contact community administrators to join WeChat groups
+2. Contribute to our projects on GitHub
+3. Contact community administrators to join WeChat groups
+4. Participate in online and offline technical exchange activities
 
 ## 📧 Contact Us
 

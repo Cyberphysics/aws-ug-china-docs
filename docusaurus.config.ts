@@ -14,6 +14,35 @@ const config: Config = {
     v4: true, // Improve compatibility with the upcoming Docusaurus v4
   },
 
+  headTags: [
+    {
+      tagName: 'link',
+      attributes: {
+        rel: 'icon',
+        type: 'image/png',
+        sizes: '32x32',
+        href: '/img/favicon-32x32.png',
+      },
+    },
+    {
+      tagName: 'link',
+      attributes: {
+        rel: 'icon',
+        type: 'image/png',
+        sizes: '16x16',
+        href: '/img/favicon-16x16.png',
+      },
+    },
+    {
+      tagName: 'link',
+      attributes: {
+        rel: 'apple-touch-icon',
+        sizes: '180x180',
+        href: '/img/apple-touch-icon.png',
+      },
+    },
+  ],
+
   // Set the production url of your site here
   url: 'https://cyberphysics.github.io', // 替换为你的 GitHub 用户名
   // Set the /<baseUrl>/ pathname under which your site is served
@@ -157,20 +186,20 @@ const config: Config = {
               href: 'https://cnusergroup.github.io/cnusergroup-website/',
             },
             {
-              label: 'Meetup',
-              href: 'https://www.meetup.com/aws-user-group-china/',
+              label: '微博',
+              href: 'https://weibo.com/u/7727126469',
             },
             {
               label: '小红书',
-              href: 'https://www.xiaohongshu.com/user/profile/5e7f8c0a000000000100a8c9',
+              href: 'https://www.xiaohongshu.com/user/profile/619dc3330000000021024542?xhsshare=WeixinSession&appuid=619dc3330000000021024542&apptime=1642477187',
             },
             {
               label: '微信公众号',
-              href: 'https://mp.weixin.qq.com/s/awsug-china',
+              href: '#wechat-qrcode',
             },
             {
               label: 'Bilibili',
-              href: 'https://space.bilibili.com/aws-ug-china',
+              href: 'https://space.bilibili.com/588632949?spm_id_from=333.1007.0.0',
             },
           ],
         },
