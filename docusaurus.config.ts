@@ -143,6 +143,12 @@ const config: Config = {
           position: 'left',
           label: 'Builder Cards',
         },
+        {
+          type: 'docSidebar',
+          sidebarId: 'ugHandbookSidebar',
+          position: 'left',
+          label: 'UG 成员手册',
+        },
         // {
         //   type: 'docSidebar',
         //   sidebarId: 'communityHandbookSidebar',
@@ -170,6 +176,10 @@ const config: Config = {
             {
               label: '亚马逊云科技 Builder Cards',
               to: '/docs/builder-cards/intro',
+            },
+            {
+              label: 'UG 成员手册',
+              to: '/docs/ug-handbook/intro',
             },
             // {
             //   label: '社区手册',

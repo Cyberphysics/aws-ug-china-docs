@@ -73,6 +73,35 @@ const sidebars: SidebarsConfig = {
       ],
     },
   ],
+
+  // UG 成员手册侧边栏
+  ugHandbookSidebar: [
+    {
+      type: 'category',
+      label: 'UG 成员手册',
+      items: [
+        'ug-handbook/intro',
+        'ug-handbook/community-overview',
+        'ug-handbook/organization',
+        'ug-handbook/member-types',
+        {
+          type: 'category',
+          label: '活动指南',
+          items: [
+            'ug-handbook/events/index',
+          ],
+        },
+        {
+          type: 'category',
+          label: '申请流程',
+          items: [
+            'ug-handbook/application/index',
+          ],
+        },
+        'ug-handbook/complete-handbook',
+      ],
+    },
+  ],
 };
 
 export default sidebars;
